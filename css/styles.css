@@ -1,0 +1,19 @@
+.navbar-brand{
+  font-family: 'Raleway', sans-serif;
+}
+
+body{
+  background-color: #0F0E0E;
+}
+h1{
+  background-color: red;
+}
+title {
+  font-family: 'Raleway', sans-serif;
+}
+carouselExampleSlidesOnly{
+  padding-top: 50px;
+}
+.carousel slide{
+  padding-top: 50px;
+}
